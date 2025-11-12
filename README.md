@@ -63,23 +63,3 @@ Visual explanation showing which lung regions influenced the model’s predictio
 
 ---
 
-## ⚙️ How to Run
-1️⃣ Clone the repo:
-```bash
-git clone https://github.com/NforcheDivine/covid19-xray-classification.git
-
-pip install -r requirements.txt
-
-python main.py
-
-jupyter notebook notebooks/02_gradcam_visualization.ipynb
-
-
----
-
-### 🧭 Step 2 — save it and push
-then in your terminal:
-```bash
-git add README.md
-git commit -m "docs: update professional README"
-git push
