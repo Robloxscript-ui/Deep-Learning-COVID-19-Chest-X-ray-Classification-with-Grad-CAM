@@ -61,5 +61,36 @@ Visual explanation showing which lung regions influenced the model’s predictio
 - Showcases model interpretability (XAI) in healthcare  
 - Provides a reusable template for future image classification projects  
 
+## ⚙️ How to Run
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/NforcheDivine/covid19-xray-classification.git
+cd covid19-xray-classification
+```
+
+### 2️⃣ Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 3️⃣ Train the Model
+```bash
+python main.py
+```
+
+### 4️⃣ Visualize Grad-CAM
+```bash
+jupyter notebook notebooks/02_gradcam_visualization.ipynb
+```
+
 ---
+
+## 👨‍💻 Author
+**Nforche Divine Ako**  
+💼 [LinkedIn](https://linkedin.com/in/nforche-divine-ako-7a821889)  
+📧 [nforchedivine@gmail.com](mailto:nforchedivine@gmail.com)
+
+
+
 
